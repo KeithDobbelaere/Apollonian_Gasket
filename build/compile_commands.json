@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Dev/Apollonian_Gasket/build",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DSFML_STATIC -IE:\\Dev\\Apollonian_Gasket\\include -external:I\"C:\\Program Files\\SFML\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 /FoCMakeFiles\\Apollonian.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Dev\\Apollonian_Gasket\\main.cpp",
+  "file": "E:\\Dev\\Apollonian_Gasket\\main.cpp",
+  "output": "CMakeFiles\\Apollonian.dir\\main.cpp.obj"
+}
+]
